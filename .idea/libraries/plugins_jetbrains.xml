@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="plugins-jetbrains">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/static/ja-netfilter/plugins-jetbrains/privacy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static/ja-netfilter/plugins-jetbrains/dns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static/ja-netfilter/plugins-jetbrains/native.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static/ja-netfilter/plugins-jetbrains/power.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static/ja-netfilter/plugins-jetbrains/hideme.jar!/" />
+      <root url="jar://$PROJECT_DIR$/static/ja-netfilter/plugins-jetbrains/url.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
